@@ -1,1 +1,9 @@
-theme: jekyll-theme-slate
+# Site settings
+title: yaIPAM
+description: yaIPAM is yet another IP Addressmanagement.
+
+exclude: ['docs/', 'lib/', 'scripts/']
+navbar: true
+
+plugins:
+  - jekyll-redirect-from
